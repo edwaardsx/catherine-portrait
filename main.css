@@ -8,12 +8,15 @@ p {
     font-size: 12px;
     line-height: 12px;
     text-align: justify;
+
     -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background: url(portrait.png) no-repeat top;
+
+    background: url(portrait-updated.png) no-repeat center;
     background-attachment: fixed;
+
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0);
